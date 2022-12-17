@@ -1,3 +1,6 @@
+
+Copy the text below and change example-text to your wanted text
+
 @-webkit-keyframes roll {
 from { -webkit-transform: rotate(0deg) }
 to   { -webkit-transform: rotate(360deg) }
@@ -21,4 +24,4 @@ body {
 -webkit-animation-duration: 4s;
 -webkit-animation-iteration-count: 1;
 }
-Hello!
+example-text
